@@ -1,0 +1,14 @@
+{
+  "name": "bootcamp-gostack-desafio-01-antigo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/acpj21/bootcamp-gostack-desafio-01-antigo.git",
+  "author": "Antonio Carlos Peron Júnior <antonio.peron@cmc.pr.gov.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
